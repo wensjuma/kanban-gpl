@@ -1,0 +1,24 @@
+{
+  "taskList": [
+    {
+      "id": "1",
+      "name": "Schedule Standup meeting",
+      "status": "todo"
+    },
+    {
+      "id": "2",
+      "name": "Attend review",
+      "status": "todo"
+    },
+    {
+      "id": "3",
+      "name": "Head for Team activities",
+      "status": "todo"
+    },
+    {
+      "id": "4",
+      "name": "Test new releases",
+      "status": "todo"
+    }
+  ]
+}
